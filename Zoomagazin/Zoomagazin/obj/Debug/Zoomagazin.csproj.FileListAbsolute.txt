@@ -1,0 +1,748 @@
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe.config
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.AssemblyReference.cache
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.baml
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.g.cs
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.g.cs
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.cache
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.g.resources
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.Properties.Resources.resources
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.GenerateResource.cache
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CoreCompileInputs.cache
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CopyComplete
+C:\Users\vorob\Desktop\кп\Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe.config
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.AssemblyReference.cache
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.cache
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.g.resources
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.Properties.Resources.resources
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.GenerateResource.cache
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CoreCompileInputs.cache
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CopyComplete
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_Content.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.dll
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.xml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Tovar\Insert.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Tovar\MainWindow.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Tovar\Update.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Tovar\Insert.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Tovar\MainWindow.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Tovar\Update.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\TovarR\Insert.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\TovarR\MainWindow.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\TovarR\Update.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\TovarR\Insert.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\TovarR\MainWindow.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\TovarR\Update.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Tovar2Rar\Insert.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Tovar2Rar\MainWindow.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Tovar2Rar\Update.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Tovar2Rar\Insert.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Tovar2Rar\MainWindow.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Tovar2Rar\Update.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\RarTovar2Rar\Insert.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\RarTovar2Rar\MainWindow.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\RarTovar2Rar\Update.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\RarTovar2Rar\Insert.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\RarTovar2Rar\MainWindow.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\RarTovar2Rar\Update.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Testa\MainWindow.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Testa\Update.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Testa\MainWindow.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Testa\Update.g.cs
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Testa\Insert.baml
+C:\Users\vorob\Desktop\Диплом Диана\Проект\Zoomagazin\Zoomagazin\obj\Debug\Testa\Insert.g.cs
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.AssemblyReference.cache
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Testa\MainWindow.baml
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.baml
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.baml
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.baml
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Testa\MainWindow.g.cs
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.g.cs
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.g.cs
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.g.cs
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_Content.g.cs
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.cache
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.g.resources
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.Properties.Resources.resources
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.GenerateResource.cache
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CoreCompileInputs.cache
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe.config
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.dll
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.xml
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CopyComplete
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Диплом Диана — копия 1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe.config
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.xml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.AssemblyReference.cache
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.baml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.baml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.baml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.baml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.baml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.g.cs
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.g.cs
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.g.cs
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.g.cs
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.g.cs
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_Content.g.cs
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.cache
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.g.resources
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.Properties.Resources.resources
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.GenerateResource.cache
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CoreCompileInputs.cache
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CopyComplete
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignColors.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.g.cs
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.lref
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.baml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Buffers.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Memory.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Buffers.xml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Memory.xml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vorob\Desktop\Диплом Диана И\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe.config
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignColors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Buffers.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Memory.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Buffers.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Memory.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.AssemblyReference.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Kalendar.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_Content.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.lref
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Kalendar.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.g.resources
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.Properties.Resources.resources
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.GenerateResource.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CoreCompileInputs.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CopyComplete
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И — копия2 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe.config
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignColors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Buffers.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Memory.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Buffers.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Memory.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.AssemblyReference.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\EdidAddGraf.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\HelloUsers.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Kalendar.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxClosed.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Polzovatel.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_Content.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.lref
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\EdidAddGraf.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\HelloUsers.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Kalendar.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxClosed.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Polzovatel.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.g.resources
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.Properties.Resources.resources
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.GenerateResource.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CoreCompileInputs.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CopyComplete
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И2\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe.config
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignColors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Buffers.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Memory.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Buffers.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Memory.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.AssemblyReference.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\EdidAddGraf.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\HelloUsers.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Kalendar.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxClosed.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Polzovatel.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_Content.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.lref
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\EdidAddGraf.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\HelloUsers.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Kalendar.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxClosed.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Polzovatel.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.g.resources
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.Properties.Resources.resources
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.GenerateResource.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CoreCompileInputs.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CopyComplete
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe.config
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignColors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Buffers.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Memory.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Buffers.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Memory.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.AssemblyReference.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\EdidAddGraf.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\HelloUsers.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Kalendar.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxClosed.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Polzovatel.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_Content.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.lref
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\EdidAddGraf.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\HelloUsers.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Kalendar.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxClosed.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Polzovatel.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.g.resources
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.Properties.Resources.resources
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.GenerateResource.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CoreCompileInputs.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CopyComplete
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана И23 — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.AssemblyReference.cache
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.baml
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.baml
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.baml
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.baml
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.baml
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Analis.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Analitics.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\EdidAddGraf.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\HelloUsers.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Kalendar.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxClosed.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxUserT.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Polzovatel.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window3.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_Content.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.cache
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.lref
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Diana Diplom\Нерабочие копии\Диплом Диана И234# — копия\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.AssemblyReference.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Analis.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Analitics.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\EdidAddGraf.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\HelloUsers.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Kalendar.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxClosed.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxUserT.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Polzovatel.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window3.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_Content.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.lref
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe.config
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignColors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Buffers.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Memory.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Buffers.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Memory.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Analis.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Analitics.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\EdidAddGraf.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\HelloUsers.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Kalendar.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxClosed.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxUserT.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Polzovatel.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window3.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.g.resources
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.Properties.Resources.resources
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.GenerateResource.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CoreCompileInputs.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.Up2Date
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\BoxGraf.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\BoxGraf.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window4.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window4.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\ClosedXML.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\ClosedXML.Report.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\ExcelNumberFormat.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\FastMember.Signed.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\ClosedXML.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\ClosedXML.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\ExcelNumberFormat.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\EditGrafik.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ\Проект\Zoomagazin\Zoomagazin\obj\Debug\EditGrafik.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe.config
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\ClosedXML.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\ClosedXML.Report.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\ExcelNumberFormat.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\FastMember.Signed.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignColors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Buffers.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Memory.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\ClosedXML.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\ClosedXML.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\ExcelNumberFormat.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Buffers.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Memory.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\Telegram.Bot.xml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.AssemblyReference.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Analis.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Analitics.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\BoxGraf.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\EdidAddGraf.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\EditGrafik.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\HelloUsers.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Kalendar.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\MainWindow.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxClosed.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxUserT.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Polzovatel.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Vhod.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window1.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window2.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window3.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window4.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\App.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_Content.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin_MarkupCompile.lref
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Analis.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Analitics.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\BoxGraf.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\EdidAddGraf.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\EditGrafik.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\HelloUsers.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Kalendar.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBox.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxClosed.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\MessegeBoxUserT.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Polzovatel.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window3.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Window4.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.g.resources
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.Properties.Resources.resources
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.GenerateResource.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.CoreCompileInputs.cache
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.csproj.Up2Date
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.exe
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Zoomagazin.pdb
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\AddUsers.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\AddUsers.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Poctavchiki.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\Poctavchiki.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\addpost.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\addpost.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\rasrab.g.cs
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\rasrab.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\EditUsers.baml
+C:\Users\vorob\Desktop\Diana Diplom\Диплом Диана СПАСЕНИЕ1\Проект\Zoomagazin\Zoomagazin\obj\Debug\EditUsers.g.cs

@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ZooMagazinModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Kat_Tovar">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Название" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tovar" Relationship="Self.FK_Tovar_Kat_Tovar" FromRole="Kat_Tovar" ToRole="Tovar" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Tovar">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Название" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="id_категории" Type="Int32" />
+    <Property Name="описание" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="цена" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Кол_воТовара" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Kat_Tovar" Relationship="Self.FK_Tovar_Kat_Tovar" FromRole="Tovar" ToRole="Kat_Tovar" />
+    <Property Name="id_SalesPoints" Type="Int32" />
+    <NavigationProperty Name="SalesPoints" Relationship="ZooMagazinModel.FK_Tovar_SalesPoints" FromRole="Tovar" ToRole="SalesPoints" />
+  </EntityType>
+  <Association Name="FK_Tovar_Kat_Tovar">
+    <End Role="Kat_Tovar" Type="Self.Kat_Tovar" Multiplicity="0..1" />
+    <End Role="Tovar" Type="Self.Tovar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kat_Tovar">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Tovar">
+        <PropertyRef Name="id_категории" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ZooMEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Kat_Tovar" EntityType="Self.Kat_Tovar" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Tovar" EntityType="Self.Tovar" />
+    <AssociationSet Name="FK_Tovar_Kat_Tovar" Association="Self.FK_Tovar_Kat_Tovar">
+      <End Role="Kat_Tovar" EntitySet="Kat_Tovar" />
+      <End Role="Tovar" EntitySet="Tovar" />
+    </AssociationSet>
+    <EntitySet Name="Employees" EntityType="ZooMagazinModel.Employees" />
+    <EntitySet Name="SalesPoints" EntityType="ZooMagazinModel.SalesPoints" />
+    <EntitySet Name="WorkSchedule" EntityType="ZooMagazinModel.WorkSchedule" />
+    <AssociationSet Name="FK_WorkSchedule_Employees" Association="ZooMagazinModel.FK_WorkSchedule_Employees">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="WorkSchedule" EntitySet="WorkSchedule" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tovar_SalesPoints" Association="ZooMagazinModel.FK_Tovar_SalesPoints">
+      <End Role="SalesPoints" EntitySet="SalesPoints" />
+      <End Role="Tovar" EntitySet="Tovar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_WorkSchedule_SalesPoints" Association="ZooMagazinModel.FK_WorkSchedule_SalesPoints">
+      <End Role="SalesPoints" EntitySet="SalesPoints" />
+      <End Role="WorkSchedule" EntitySet="WorkSchedule" />
+    </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(ZooMagazinModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(ZooMagazinModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+    <EntitySet Name="Suppliers" EntityType="ZooMagazinModel.Suppliers" />
+    <EntitySet Name="Supplies" EntityType="ZooMagazinModel.Supplies" />
+    <AssociationSet Name="FK_Supplies_SalesPoints" Association="ZooMagazinModel.FK_Supplies_SalesPoints">
+      <End Role="SalesPoints" EntitySet="SalesPoints" />
+      <End Role="Supplies" EntitySet="Supplies" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Supplies_Suppliers" Association="ZooMagazinModel.FK_Supplies_Suppliers">
+      <End Role="Suppliers" EntitySet="Suppliers" />
+      <End Role="Supplies" EntitySet="Supplies" />
+    </AssociationSet>
+    <EntitySet Name="Users" EntityType="ZooMagazinModel.Users" />
+  </EntityContainer>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Age" Type="Int32" />
+    <Property Name="Position" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="WorkSchedule" Relationship="ZooMagazinModel.FK_WorkSchedule_Employees" FromRole="Employees" ToRole="WorkSchedule" />
+  </EntityType>
+  <EntityType Name="SalesPoints">
+    <Key>
+      <PropertyRef Name="id_T" />
+    </Key>
+    <Property Name="id_T" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Address" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Tovar" Relationship="ZooMagazinModel.FK_Tovar_SalesPoints" FromRole="SalesPoints" ToRole="Tovar" />
+    <NavigationProperty Name="WorkSchedule" Relationship="ZooMagazinModel.FK_WorkSchedule_SalesPoints" FromRole="SalesPoints" ToRole="WorkSchedule" />
+    <NavigationProperty Name="Supplies" Relationship="ZooMagazinModel.FK_Supplies_SalesPoints" FromRole="SalesPoints" ToRole="Supplies" />
+  </EntityType>
+  <EntityType Name="WorkSchedule">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EmployeeID" Type="Int32" />
+    <Property Name="SalesPointID" Type="Int32" />
+    <Property Name="Date" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Employees" Relationship="ZooMagazinModel.FK_WorkSchedule_Employees" FromRole="WorkSchedule" ToRole="Employees" />
+    <NavigationProperty Name="SalesPoints" Relationship="ZooMagazinModel.FK_WorkSchedule_SalesPoints" FromRole="WorkSchedule" ToRole="SalesPoints" />
+  </EntityType>
+  <Association Name="FK_WorkSchedule_Employees">
+    <End Type="ZooMagazinModel.Employees" Role="Employees" Multiplicity="0..1" />
+    <End Type="ZooMagazinModel.WorkSchedule" Role="WorkSchedule" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="WorkSchedule">
+        <PropertyRef Name="EmployeeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tovar_SalesPoints">
+    <End Type="ZooMagazinModel.SalesPoints" Role="SalesPoints" Multiplicity="0..1" />
+    <End Type="ZooMagazinModel.Tovar" Role="Tovar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SalesPoints">
+        <PropertyRef Name="id_T" />
+      </Principal>
+      <Dependent Role="Tovar">
+        <PropertyRef Name="id_SalesPoints" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_WorkSchedule_SalesPoints">
+    <End Type="ZooMagazinModel.SalesPoints" Role="SalesPoints" Multiplicity="0..1" />
+    <End Type="ZooMagazinModel.WorkSchedule" Role="WorkSchedule" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SalesPoints">
+        <PropertyRef Name="id_T" />
+      </Principal>
+      <Dependent Role="WorkSchedule">
+        <PropertyRef Name="SalesPointID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+  <EntityType Name="Suppliers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Supplies" Relationship="ZooMagazinModel.FK_Supplies_Suppliers" FromRole="Suppliers" ToRole="Supplies" />
+  </EntityType>
+  <EntityType Name="Supplies">
+    <Key>
+      <PropertyRef Name="Id_Supplies" />
+    </Key>
+    <Property Name="Id_Supplies" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_poctav" Type="Int32" />
+    <Property Name="id_tt" Type="Int32" />
+    <Property Name="date" Type="DateTime" Precision="0" />
+    <Property Name="Exel" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="SalesPoints" Relationship="ZooMagazinModel.FK_Supplies_SalesPoints" FromRole="Supplies" ToRole="SalesPoints" />
+    <NavigationProperty Name="Suppliers" Relationship="ZooMagazinModel.FK_Supplies_Suppliers" FromRole="Supplies" ToRole="Suppliers" />
+  </EntityType>
+  <Association Name="FK_Supplies_SalesPoints">
+    <End Type="ZooMagazinModel.SalesPoints" Role="SalesPoints" Multiplicity="0..1" />
+    <End Type="ZooMagazinModel.Supplies" Role="Supplies" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SalesPoints">
+        <PropertyRef Name="id_T" />
+      </Principal>
+      <Dependent Role="Supplies">
+        <PropertyRef Name="id_tt" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Supplies_Suppliers">
+    <End Type="ZooMagazinModel.Suppliers" Role="Suppliers" Multiplicity="0..1" />
+    <End Type="ZooMagazinModel.Supplies" Role="Supplies" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Suppliers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Supplies">
+        <PropertyRef Name="id_poctav" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Password" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Username" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="emaile" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Position" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Photo" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="FullName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

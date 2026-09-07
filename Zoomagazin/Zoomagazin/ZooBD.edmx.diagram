@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="04eaa0653ad44cbcbb4f0a4027f6f75c" Name="Diagram1" ZoomLevel="118">
+        <EntityTypeShape EntityType="ZooMagazinModel.Kat_Tovar" Width="1.5" PointX="0.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZooMagazinModel.sysdiagrams" Width="1.5" PointX="4.625" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZooMagazinModel.Tovar" Width="1.5" PointX="3.125" PointY="2.125" IsExpanded="true" />
+        <AssociationConnector Association="ZooMagazinModel.FK_Tovar_Kat_Tovar" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="ZooMagazinModel.Employees" Width="1.5" PointX="10.25" PointY="2.5" />
+        <EntityTypeShape EntityType="ZooMagazinModel.SalesPoints" Width="1.5" PointX="5.875" PointY="2.625" />
+        <EntityTypeShape EntityType="ZooMagazinModel.WorkSchedule" Width="1.5" PointX="8" PointY="2.375" />
+        <AssociationConnector Association="ZooMagazinModel.FK_WorkSchedule_Employees" />
+        <AssociationConnector Association="ZooMagazinModel.FK_Tovar_SalesPoints" />
+        <AssociationConnector Association="ZooMagazinModel.FK_WorkSchedule_SalesPoints" />
+        <EntityTypeShape EntityType="ZooMagazinModel.Suppliers" Width="1.5" PointX="5.875" PointY="9.75" />
+        <EntityTypeShape EntityType="ZooMagazinModel.Supplies" Width="1.5" PointX="8.125" PointY="5.375" />
+        <AssociationConnector Association="ZooMagazinModel.FK_Supplies_SalesPoints" />
+        <AssociationConnector Association="ZooMagazinModel.FK_Supplies_Suppliers" />
+        <EntityTypeShape EntityType="ZooMagazinModel.Users" Width="1.5" PointX="12.5" PointY="2.625" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,62 @@
+﻿<Window x:Class="Zoomagazin.EdidAddGraf"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:local="clr-namespace:Zoomagazin"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen" WindowStyle="None"
+        Background="Transparent" Height="380" Width="450" AllowsTransparency="True" >
+
+    <Border Grid.Column="1" CornerRadius="20" Background="#3AB19B">
+        <Grid>
+
+            <Icon:PackIconMaterial Kind="Close" Grid.Column="1" Width="15" Height="15" Foreground="White" Panel.ZIndex="1" Mouse.MouseUp="Icon_MouseUp" Style="{StaticResource iconClose}"/>
+
+            <StackPanel Margin="10 20 ">
+                <TextBlock Text="Добавление рабочего дня" Style="{StaticResource titleText}" FontSize="25" Foreground="White"/>
+
+                <DatePicker 
+                    x:Name="DatePicker"
+                    Width="200" Margin="70 20 70 0"
+                    materialDesign:HintAssist.HelperText="Выберите дату"
+                    materialDesign:HintAssist.Hint="Дата"
+                    Background="White"
+                    Style="{StaticResource MaterialDesignOutlinedDatePicker}" />
+
+                <ComboBox
+                  Width="200" Margin="70 25 70 0"
+                  materialDesign:HintAssist.Hint="Сотрудник"
+                  materialDesign:TextFieldAssist.HasClearButton="True"
+                  Background="White"
+                  ItemsSource="{Binding ShortStringList}"
+                  Style="{StaticResource MaterialDesignOutlinedComboBox}"
+                  x:Name="Cotrudnik">
+                    <ComboBoxItem>Петров Петр Петрович</ComboBoxItem>
+                    <ComboBoxItem>Сидорова Елена Александровна</ComboBoxItem>
+                    <ComboBoxItem>Козлова Мария Ивановна</ComboBoxItem>
+                    <ComboBoxItem>Иванова Екатерина Сергеевна</ComboBoxItem>
+                </ComboBox>
+
+                <ComboBox
+                  Width="200" Margin="70 15 70 0"
+                  materialDesign:HintAssist.Hint="Торговая точка"
+                  materialDesign:TextFieldAssist.HasClearButton="True"
+                  Background="White"
+                  ItemsSource="{Binding ShortStringList}"
+                  Style="{StaticResource MaterialDesignOutlinedComboBox}"
+                  x:Name="Point">
+                    <ComboBoxItem>Академическая, 27</ComboBoxItem>
+                    <ComboBoxItem>Гоголя, 44В</ComboBoxItem>
+                </ComboBox>
+
+                <Button Content="Добавить" Foreground="#3AB19B" Background="White" Click="Button_Click" Style="{StaticResource mainbutton}"/>
+
+            </StackPanel>
+
+        </Grid>
+    </Border>
+
+</Window>

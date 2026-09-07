@@ -1,0 +1,157 @@
+﻿<Page x:Class="Zoomagazin.HelloUsers"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+      xmlns:local="clr-namespace:Zoomagazin"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      d:DesignHeight="680" d:DesignWidth="1200">
+
+    <Grid Background="#eff2f7">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0">
+            <Grid>
+                <TextBlock Text="Вы - наши герои, создающие магию пушистых чудес! Спасибо, что делаете наш зоомагазин местом, наполненным любовью и теплом." 
+                           Width="600" Foreground="#3AB19B" FontSize="25" HorizontalAlignment="Left" VerticalAlignment="Top"
+                           TextWrapping="Wrap" FontWeight="Bold" Margin="0 100 0 0" x:Name="Like"/>
+                <StackPanel Margin="0 300 0 0" VerticalAlignment="Center" HorizontalAlignment="Left">
+                    <Image Source="images/cc.png" Height="350" Width="300"/>
+                </StackPanel>
+                <StackPanel Margin="300 200 0 0" VerticalAlignment="Center" HorizontalAlignment="Left">
+                    <Image Source="images/kica.png" Height="450" Width="400"/>
+                </StackPanel>
+                <StackPanel Margin="200 420 0 0" VerticalAlignment="Center" HorizontalAlignment="Left">
+                    <Image Source="images/xoma.png" Height="150" Width="180"/>
+                </StackPanel>
+                <StackPanel Margin="0 0 0 0" VerticalAlignment="Center" HorizontalAlignment="Right">
+                    <Image Source="images/cc1.png" Height="700" Width="460"/>
+                </StackPanel>
+                <StackPanel Margin="100 100 0 0" VerticalAlignment="Top" HorizontalAlignment="Left">
+                    <Image Source="images/Lapa.png" Height="90" Width="90" Opacity="0.4"/>
+                </StackPanel>
+                <StackPanel Margin="50 200 0 0" VerticalAlignment="Top" HorizontalAlignment="Left">
+                    <Image Source="images/Lapa.png" Height="90" Width="90" Opacity="0.4"/>
+                </StackPanel>
+                <StackPanel Margin="250 50 0 0" VerticalAlignment="Top" HorizontalAlignment="Left">
+                    <Image Source="images/Lapa.png" Height="90" Width="90" Opacity="0.4"/>
+                </StackPanel>
+                <StackPanel Margin="300 -50 0 0" VerticalAlignment="Top" HorizontalAlignment="Left">
+                    <Image Source="images/Lapa.png" Height="90" Width="90" Opacity="0.4"/>
+                </StackPanel>
+                <Button Style="{StaticResource addButton}" Width="70" Margin="400 250 0 0" HorizontalAlignment="Left" VerticalAlignment="Top" Click="LikeShortsButton_Click" x:Name="LikeShortsButton" >
+                    <StackPanel Orientation="Horizontal">
+                        <Icon:PackIconMaterial Kind="Dog" VerticalAlignment="Center" Width="11" Height="11" Margin="0 1 8 0"/>
+                        <TextBlock Text="Гав"/>
+                    </StackPanel>
+                </Button>
+            </Grid>
+        </Grid>
+
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" Margin="0 50 0 220">
+                <materialDesign:Card
+                    Width="200">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="140" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <Image
+                          Width="196"
+                          Height="140"
+                          Source="images/ovta.JPG"
+                          Stretch="UniformToFill" />
+
+                        <StackPanel
+                              Grid.Row="1"
+                              Margin="8,24,8,0">
+                            <TextBlock
+                                FontWeight="Bold">
+                              Скидки
+                            </TextBlock>
+                            <TextBlock
+                                VerticalAlignment="Center"
+                                Text="На весь асоримент категории Грызунов 10%. Акция действует с 17.06 по 19.06"
+                                TextWrapping="Wrap" />
+                        </StackPanel>
+                        <StackPanel
+                              Grid.Row="2"
+                              Margin="8"
+                              HorizontalAlignment="Right"
+                              Orientation="Horizontal">
+                            <Button
+                                Width="30"
+                                Padding="2,0,2,0"
+                                materialDesign:RippleAssist.IsCentered="True"
+                                Style="{StaticResource MaterialDesignToolButton}">
+                                <materialDesign:PackIcon
+                                    Kind="ShareVariant" />
+                            </Button>
+
+                        </StackPanel>
+                    </Grid>
+                </materialDesign:Card>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" VerticalAlignment="Bottom">
+                <materialDesign:Card
+                      Width="200"
+                      Padding="0"
+                      Background="#3AB19B"
+                      Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <TextBlock
+                              Grid.Row="0"
+                              Margin="16,16,16,4"
+                              Style="{StaticResource MaterialDesignHeadline5TextBlock}"
+                              Text="Администратор" FontSize="22"/>
+                        <Separator Grid.Row="1" Style="{StaticResource MaterialDesignLightSeparator}" />
+                        <TextBlock
+                              Grid.Row="2"
+                              Margin="16,0,16,8"
+                              HorizontalAlignment="Left"
+                              VerticalAlignment="Center"
+                              Style="{StaticResource MaterialDesignBody2TextBlock}"
+                              Text="+7 904 143 93-34" />
+                        <StackPanel
+                          Grid.Row="2"
+                          Margin="16,0,16,8"
+                          HorizontalAlignment="Right"
+                          Orientation="Horizontal">
+                            <Button
+                                Width="30"
+                                Padding="2,0,2,0"
+                                HorizontalAlignment="Right"
+                                materialDesign:RippleAssist.IsCentered="True"
+                                Style="{StaticResource MaterialDesignToolForegroundButton}">
+                                <materialDesign:PackIcon Kind="Phone" />
+                            </Button>
+                        </StackPanel>
+                    </Grid>
+                </materialDesign:Card>
+            </StackPanel>
+
+        </Grid>
+
+
+    </Grid>
+</Page>

@@ -1,0 +1,62 @@
+﻿<Window x:Class="Zoomagazin.Window1"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+            xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+            WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True"
+            Background="Transparent" Height="500" Width="450">
+    <Grid>
+
+        <Icon:PackIconMaterial Kind="Close" Grid.Column="1" Panel.ZIndex="1" Mouse.MouseUp="Icon_MouseUp" Style="{StaticResource iconClose}"/>
+
+        <Border Grid.Column="1" CornerRadius="20" Background="White">
+            <StackPanel>
+                <TextBlock Text="Добавление товара" Style="{StaticResource titleText}" Foreground="#3AB19B"/>
+
+                <TextBox x:Name="Nazvanie"
+                      VerticalAlignment="Top" Margin="70 10 70 15"
+                      materialDesign:HintAssist.HelperText="Название"
+                      materialDesign:HintAssist.Hint="Название товара"
+                      Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+
+                <TextBox x:Name="Opicanie"
+                      VerticalAlignment="Top" Margin="70 10 70 15"
+                      materialDesign:HintAssist.HelperText="Описание"
+                      materialDesign:HintAssist.Hint="Описание товара"
+                      TextWrapping="Wrap"
+                      Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+
+                <TextBox x:Name="Cena"
+                      VerticalAlignment="Top" Margin="70 10 70 15"
+                      materialDesign:HintAssist.HelperText="Цена"
+                      materialDesign:HintAssist.Hint="Цена товара"
+                      TextWrapping="Wrap"
+                      Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+
+                <TextBox x:Name="Kolvo"
+                      VerticalAlignment="Top" Margin="70 10 70 15"
+                      materialDesign:HintAssist.HelperText="Количество"
+                      materialDesign:HintAssist.Hint="Количество тавара"
+                      TextWrapping="Wrap"
+                      Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+
+                <ComboBox
+                      Width="256" Margin="70 20 70 0"
+                      materialDesign:HintAssist.Hint="Выберите катекорию"
+                      materialDesign:TextFieldAssist.HasClearButton="True"
+                      ItemsSource="{Binding ShortStringList}"
+                      Style="{StaticResource MaterialDesignOutlinedComboBox}"
+                      x:Name="Kategori">
+                    <ComboBoxItem>Корма</ComboBoxItem>
+                    <ComboBoxItem>Игрушки для животных</ComboBoxItem>
+                    <ComboBoxItem>Аксессуары для животных</ComboBoxItem>
+                    <ComboBoxItem>Товары для грызунов</ComboBoxItem>
+                </ComboBox>
+
+                <Button Content="Добавить товар" Click="Button_Click" Style="{StaticResource mainbutton}"/>
+
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</Window>
